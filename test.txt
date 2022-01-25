@@ -1,0 +1,16 @@
+-----------------------
+Codigo: 1
+Nome Arroz
+
+Preco: 18,00
+Dia da validade: 9
+Męs da validade: 3
+Ano da validade: 2022
+Quatidade: 4
+Nome do fornecedor: ArrozSp
+
+Telefone para contato: 38385959
+Cidade: Rio de Janeiro
+
+Estado: Rj
+
